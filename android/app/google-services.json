@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "567679515063",
+    "project_id": "cripto-api-iago",
+    "storage_bucket": "cripto-api-iago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567679515063:android:ed69c1255aacbf0b5f1032",
+        "android_client_info": {
+          "package_name": "com.example.cripto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567679515063-899ruf2350gi4ihtqnl5oa4c42hv84aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWU1kmBWCMY4f5MztotMxW7YhDP9t2Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567679515063-899ruf2350gi4ihtqnl5oa4c42hv84aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567679515063-7vq5c1p15d35a1qvijp7mvu15cvl47q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cripto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567679515063:android:2b1c28f6b9969e2d5f1032",
+        "android_client_info": {
+          "package_name": "com.example.cripto_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567679515063-899ruf2350gi4ihtqnl5oa4c42hv84aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWU1kmBWCMY4f5MztotMxW7YhDP9t2Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567679515063-899ruf2350gi4ihtqnl5oa4c42hv84aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567679515063-7vq5c1p15d35a1qvijp7mvu15cvl47q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cripto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
